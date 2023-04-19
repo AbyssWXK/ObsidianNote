@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "right": {
     "id": "1372e768717695c7",
@@ -166,7 +165,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f5d8fce70a011bcf",
+  "active": "edf4fceb30e306ba",
   "lastOpenFiles": [
     "BTSystemSettingUML/wifi.md",
     "BTSystemSettingUML/total/系统结构.md",
