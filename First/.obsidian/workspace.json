@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "66a6823a2adeb3a7",
+        "id": "3b67872a67c5b96a",
         "type": "tabs",
         "children": [
           {
-            "id": "5bd45214f6ce8964",
+            "id": "edf4fceb30e306ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "BTSystemSettingUML/total/系统结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,18 +22,18 @@
         ]
       },
       {
-        "id": "3b67872a67c5b96a",
+        "id": "8e7062be9f6c4420",
         "type": "tabs",
         "children": [
           {
-            "id": "ae5f855157f3e0cf",
+            "id": "f5d8fce70a011bcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BTSystemSettingUML/wifi.md",
-                "mode": "preview",
-                "source": true
+                "file": "BTSystemSettingUML/total/系统结构.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 307.5,
+    "collapsed": true
   },
   "right": {
     "id": "1372e768717695c7",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "BTSystemSettingUML/total/系统结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "BTSystemSettingUML/total/系统结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,11 +144,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "BTSystemSettingUML/total/系统结构.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -164,34 +166,37 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5bd45214f6ce8964",
+  "active": "f5d8fce70a011bcf",
   "lastOpenFiles": [
     "BTSystemSettingUML/wifi.md",
+    "BTSystemSettingUML/total/系统结构.md",
+    "BTSystemSettingUML/total",
     "note/Evernote/__@设定控主页_ http___t.cn_E20meQF  _.md",
-    "README.md",
-    "note/Evernote/__@我與翔鶴的日常_[文明遛狗].md",
-    "note/Evernote/：我好痛苦.md",
-    "note/Evernote/“事实不能说明事实，求状况，而非求事实”，不仅是史学治学格言，也.md",
-    "note/Evernote/无标题笔记-46.md",
-    "note/Evernote/无标题笔记-42.md",
-    "note/Evernote/无标题笔记-41.md",
-    "note/Evernote/无标题笔记-82.md",
-    "note/Evernote/无名之辈 克隆人 你好，之华.md",
-    "note/Evernote/gene 基因 遗传单位.md",
-    "note/Evernote/F Amazon.md",
-    "note/Evernote/q.md",
-    "note/Evernote/The Handbook of Knowledge Representation.md",
-    "note/Evernote/unity 3d.md",
-    "note/Evernote/wlop.md",
-    "note/Evernote/yi.md",
-    "note/Evernote/无标题-1.md",
-    "note/Evernote/经济学人.md",
-    "note/Evernote/剧本杀.md",
-    "note/Evernote/礼.md",
-    "note/Evernote/🍉记个名字 王林清__@张洲_不会吧！？难以置信[悲伤]__@.md",
+    "note/Evernote/『那些酷炫的深度学习网络图怎么画出来的？』.md",
+    "note/Evernote/【非常全面！200种机器学习教程汇总！】不吹不黑，绝对史上最全的.md",
     "note/Evernote/【图神经网络(GNN)相关资源大列表】’Awesome reso.md",
+    "note/Evernote/🍉记个名字 王林清__@张洲_不会吧！？难以置信[悲伤]__@.md",
+    "note/Evernote/@我的印象笔记  __@小童看天下_崔天凯对问题的回答只能让美国.md",
+    "note/Evernote/【1】2018年的最后一天，咱们聊点严肃的话题，即自古以来，正确.md",
+    "note/Evernote/《机器翻译学术论文写作方法和技巧(不只是机器翻译)》by 刘洋.md",
+    "note/Evernote/[cp]在迎来历史的跨越前，人们都要经历一段最荒谬的历史，以让人们理解什么是愚昧，而不再重演。恶是历.md",
     "note/Evernote/[cp]我们DNA里的氮元素，我们牙齿里的钙元素，我们血液里的铁元素，还有我们吃掉的东西里的碳元素，.md",
+    "note/Evernote/[cp]我们希望我们以身作则，告诉年轻人，即使在这个国家，不靠关系，你也能站着赚钱，成为一个传奇。成.md",
     "note/Evernote/[cp]尼采说：人的精神有三种境界：骆驼、狮子和婴儿。第一境界骆驼，忍辱负重，被动地听命于别人或命运.md",
+    "note/Evernote/[cp]1000年后的古文课是否会对和谐这个形容词的动词用法做出特别的解释。 ​​​[_cp].md",
+    "note/Evernote/（二）在人类历史的长河中，能够经历时间的考验，在不同的历史阶段中.md",
+    "note/Evernote/”无论时运好坏，我们都清楚自己是可以牺牲的，我们的辛劳随时可能付诸东流，我们随时可能被击得粉碎。”.md",
+    "note/Evernote/“事实不能说明事实，求状况，而非求事实”，不仅是史学治学格言，也.md",
+    "note/Evernote/：我好痛苦.md",
+    "note/Evernote/__@我與翔鶴的日常_[文明遛狗].md",
+    "note/Evernote/j fla.md",
+    "note/Evernote/never forget.md",
+    "note/Evernote/okex.md",
+    "note/Evernote/okex-1.md",
+    "note/Evernote/yi.md",
+    "note/Evernote/无标题笔记-95.md",
+    "未命名.canvas",
+    "未命名",
     "note/_resources/storage/emulated/0/sina/weibo/weibo/img-1395cd176a552898b7bb18bd5132d0f5.jpg",
     "note/_resources/storage/emulated/0/sina/weibo/weibo/img-335c4b9240794aca0446afa4f6c04676.jpg",
     "note/_resources/storage/emulated/0/sina/weibo/weibo/img-9a8d85f84d5c8cddd7c923a62941ba23.jpg",
@@ -209,8 +214,6 @@
     "note/_resources/storage",
     "note/_resources/Screenshot_2022-11-01-12-18-21-029_com.sina.weibo.jpg",
     "note/_resources/Screenshot_2021-03-08-18-25-08-324_com.tencent.mtt",
-    "note/_resources/image3",
-    "note/_resources",
-    "note/Welcome! (Desktop)"
+    "note/_resources/image3"
   ]
 }
