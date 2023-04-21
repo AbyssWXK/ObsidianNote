@@ -1,0 +1,408 @@
+connect Fragment
+
+```mermaid
+classDiagram
+class ConneectFragment{
+TextView wifiStateName
+TextView hotspotStateName
+TextView tvTelData
+TextView tvBluetooth
+Switch switchWifi
+Switch switchHotSpot
+Switch switchBluetooth
+Switch swTelData
+}
+class BaseMVPFragment
+class Presenter{
+<<interface>>
+ +closeWifiRoot()void
+ +openWifiRoot()void
+ +openWifiApRoot()void
+ +closeWifiApRoot()void
+ +getWifiApState()boolean
+ +closeBluetoothRoot()void
+ +openBluetoothRoot()void
+ +getBluetoothState()boolean
+ +getBluetoothInfoState()String
+ +openMobileDataRoot()void
+ +closeMobileDataRoot()void
+ +getMobilDataState()boolean
+}
+class View{
+    <<inerface>>
+    +wifiClosed()void
+    +wifiInfoUpdate(String)void
+    +hotSpotClosed()void
+    +hotSpotOpened()void
+    +hotSpotInfoUpdate(String)void
+    +updateBluetoothInfo(String)void
+    +updateBluetoothState(boolean)void
+    +updateDataState(boolean)void
+}
+
+ConneectFragment <|-- BaseMVPFragment
+ConneectFragment <|.. View
+ConneectFragment o-- Presenter
+Presenter o-- BluetoothProxy
+Presenter o-- WifiProxy
+
+```
+
+connect Presenter
+```mermaid
+classDiagram
+class WifiProxy{
+-WifiManager mWifiManager
+-WifiAp mWifiAp
+-CustomWifiInfo mConnectedInfo
+-CustomWIfiInfo mInfoInConnecting
+-List<ApClientListener> mApClientListeners
+-List<ApStateListener> mApStateListeners
+-List<WifiStateObserver> mWifiStateObservers
+-List<CustomWifiInfo> mWifiInfos
+-List<ApInfo> mAPInfos
+-boolean mShouldRestartAp
+-ConnectListener mConnectListener
+ +disable()boolean
+ +disConnect()boolean
+ +doConnect(CustomWIfiInfo,boolean)
+ +enable()boolean
+ +getAllWifiInfo()List<CustomWifiInfo>
+ +getApstate()int
+ +getConnectedInfo():CustomWifiInfo
+ +getHotSpotKey()String
+ +getHotSpotName()String
+ +getScanResults()List<CustomWifiInfo>
+ +isEnable()boolean
+ +setHotSpotKey(String)boolean
+ +setHotSpotName(String)boolean
+ +startScan()boolean
+ +registerApClientListerner(ApClientListener)void
+ +registerAPStateListener(ApsteateListener)void
+ +registerWifiStateObserver(WifiStateObserver)void
+}
+class BluetoothProxy{
+-GapController mGapController
+-PbapController mPbapController
+-HfpController mHfpController
+-A2dpController mA2dpController
+-DeviceController mDeviceController
+-List<BluetoothStateObserver> mBluetoothStateObserverList
+-Map<String, Long> mBondTimeMap
+-Set<String> mBondTimeSet
+-BluetoothDevice mParingDevice
+-List<BluetoothDevice> mPairedDevice
+-BluetoothDevice mConnectingDevice
+ +reqConnectDevice(BluetoothDevice)void
+ +changeLocalBluetoothName(String)void
+ +connectA2dp(BluetoothDevice)void
+ +connectHfp(BluetoothDevice)void
+ +connectPbap(BluetoothDevice)void
+ +disConnect(BluetoothDevice)void
+ +disable()boolean
+ +enable()boolean
+ +findConnectedDevice(BluetoothDevice)List<BluetoothDevice>
+ +getBondedBluetoothDevices()List<BluetoothDevice>
+ +getConnectedDevices()List<BluetoothDevice>
+ +getName()String
++isBonded(BluetoothDevice)boolean
++isConnecting()boolean
++isDeviceA2dpConnected(BluetoothDevice)boolean
++isDeviceConnected(BluetoothDevice)boolean
++isDeviceConnecting(BluetoothDevice)boolean
++isEnable()boolean
++isParing()boolean
++registerBluetoothStateObserver(BluetoothStateObserver)void
++removeBondedDevice(BluetoothDevice)void
+}
+Presenter o-- BluetoothProxy
+Presenter o-- WifiProxy
+```
+
+WifiWindow
+
+```mermaid
+classDiagram
+class WifiSettingDialogWindow2{
+ String TAG
+ -Presenter wifiSettingPresenter
+ -Switch rootSwitch
+ -RecyclerView wifiLv
+}
+class NormalDialogWindow2{
+<<abstract>>
+-ImageView closeIcon
+-TextView titleTextView
++getLayoutId()int
++closeDialog()void
+#protected initView(View)void
++getTitle()String
++getMyRootView()View
++initInflateView(View)
++getInflageLayoutId()int
+}
+class DialogWindow2
+class Presenter{
+<<interface>>
+    +closeRoot()boolean
+    +openRoot()boolean
+    +bindRecyclerView(RecyclerView)
+    +updateConnectMsg()
+}
+class View{
+<<interface>>
+ wifiClosed()void
+ wifiOpened()void
+ upConfigUI(boolean,CustomWifiInfo)void
+ showUpdateLoading()void
+ closeUpdateLoading()void
+}
+class WifiProxy{
+-WifiManager mWifiManager
+-WifiAp mWifiAp
+-CustomWifiInfo mConnectedInfo
+-CustomWIfiInfo mInfoInConnecting
+-List<ApClientListener> mApClientListeners
+-List<ApStateListener> mApStateListeners
+-List<WifiStateObserver> mWifiStateObservers
+-List<CustomWifiInfo> mWifiInfos
+-List<ApInfo> mAPInfos
+-boolean mShouldRestartAp
+-ConnectListener mConnectListener
+ +disable()boolean
+ +disConnect()boolean
+ +doConnect(CustomWIfiInfo,boolean)
+ +enable()boolean
+ +getAllWifiInfo()List<CustomWifiInfo>
+ +getApstate()int
+ +getConnectedInfo():CustomWifiInfo
+ +getHotSpotKey()String
+ +getHotSpotName()String
+ +getScanResults()List<CustomWifiInfo>
+ +isEnable()boolean
+ +setHotSpotKey(String)boolean
+ +setHotSpotName(String)boolean
+ +startScan()boolean
+ +registerApClientListerner(ApClientListener)void
+ +registerAPStateListener(ApsteateListener)void
+ +registerWifiStateObserver(WifiStateObserver)void
+}
+NormalDialogWindow2 <|-- DialogWindow2
+WifiSettingDialogWindow2 <|-- NormalDialogWindow2
+WifiSettingDialogWindow2 <|.. View
+WifiSettingDialogWindow2 o-- Presenter
+Presenter o-- WifiProxy
+
+```
+
+
+BluetoothWindow
+
+```mermaid
+classDiagram
+class BluetoothSettingDialog2{
+ String TAG
+ -Presenter wifiSettingPresenter
+ -Switch rootSwitch
+ -RecyclerView wifiLv
+}
+class NormalDialogWindow2{
+<<abstract>>
+-ImageView closeIcon
+-TextView titleTextView
++getLayoutId()int
++closeDialog()void
+#protected initView(View)void
++getTitle()String
++getMyRootView()View
++initInflateView(View)
++getInflageLayoutId()int
+}
+class DialogWindow2
+class Presenter{
+<<interface>>
++initDate()void
+    +closeRoot()void
+    +openRoot()void
+    +startDiscovery()void
+    +reNameDevice()vodi
+		+upNotifyType(int)
+		+isOpen()
+		getRingMode()int
+		bindScanListRecyclerView(RecyclerView)
+		bindPairedListRecyclerView(RecyclerView)
+}
+class View{
+<<interface>>
+ closeBluetooth()void
+ openBluetooth()void
+ reNameRootDevice(boolean,CustomWifiInfo)void
+ changeNotifyType()void
+ updateScanLoadingState(boolean)void
+ updateListVisible(boolean)void
+ connectedNotify(boolean)void
+ 
+}
+class BluetoothProxy{
+-GapController mGapController
+-PbapController mPbapController
+-HfpController mHfpController
+-A2dpController mA2dpController
+-DeviceController mDeviceController
+-List<BluetoothStateObserver> mBluetoothStateObserverList
+-Map<String, Long> mBondTimeMap
+-Set<String> mBondTimeSet
+-BluetoothDevice mParingDevice
+-List<BluetoothDevice> mPairedDevice
+-BluetoothDevice mConnectingDevice
+ +reqConnectDevice(BluetoothDevice)void
+ +changeLocalBluetoothName(String)void
+ +connectA2dp(BluetoothDevice)void
+ +connectHfp(BluetoothDevice)void
+ +connectPbap(BluetoothDevice)void
+ +disConnect(BluetoothDevice)void
+ +disable()boolean
+ +enable()boolean
+ +findConnectedDevice(BluetoothDevice)List<BluetoothDevice>
+ +getBondedBluetoothDevices()List<BluetoothDevice>
+ +getConnectedDevices()List<BluetoothDevice>
+ +getName()String
++isBonded(BluetoothDevice)boolean
++isConnecting()boolean
++isDeviceA2dpConnected(BluetoothDevice)boolean
++isDeviceConnected(BluetoothDevice)boolean
++isDeviceConnecting(BluetoothDevice)boolean
++isEnable()boolean
++isParing()boolean
++registerBluetoothStateObserver(BluetoothStateObserver)void
++removeBondedDevice(BluetoothDevice)void
+}
+NormalDialogWindow2 <|-- DialogWindow2
+BluetoothSettingDialog2 <|-- NormalDialogWindow2
+BluetoothSettingDialog2 <|.. View
+BluetoothSettingDialog2 o-- Presenter
+Presenter o-- BluetoothProxy
+
+```
+
+hotspot类图
+```mermaid
+classDiagram
+class HotSpotSettingDialog2{
+ String TAG
+ -Presenter hotspotSettingPresenter
+ -Switch rootSwitch
+ -TextView tvPairedTitle
+ -TextView tvName
+ -ConstraintLayout mLayout
+ -RecyclerView paireddeviceRV
+}
+class NormalDialogWindow2{
+<<abstract>>
+-ImageView closeIcon
+-TextView titleTextView
++getLayoutId()int
++closeDialog()void
+#protected initView(View)void
++getTitle()String
++getMyRootView()View
++initInflateView(View)
++getInflageLayoutId()int
+}
+class DialogWindow2
+class Presenter{
+<<interface>>
+ #initDate()void
+ +isRootEnable()boolean
+    +openRoot()void
+    +closeRoot()void
+    +reNameHotSpot()void
+    +upHotSpotKey()void
+}
+class View{
+<<interface>>
+ openHotSpot()void
+ closeHotSpot()void
+ upHotSpotName(String)void
+ initDeviceList(Adapter)
+ updateDeviceNumber(int)void
+}
+class WifiProxy{
+-WifiManager mWifiManager
+-WifiAp mWifiAp
+-CustomWifiInfo mConnectedInfo
+-CustomWIfiInfo mInfoInConnecting
+-List<ApClientListener> mApClientListeners
+-List<ApStateListener> mApStateListeners
+-List<WifiStateObserver> mWifiStateObservers
+-List<CustomWifiInfo> mWifiInfos
+-List<ApInfo> mAPInfos
+-boolean mShouldRestartAp
+-ConnectListener mConnectListener
+ +disable()boolean
+ +disConnect()boolean
+ +doConnect(CustomWIfiInfo,boolean)
+ +enable()boolean
+ +getAllWifiInfo()List<CustomWifiInfo>
+ +getApstate()int
+ +getConnectedInfo():CustomWifiInfo
+ +getHotSpotKey()String
+ +getHotSpotName()String
+ +getScanResults()List<CustomWifiInfo>
+ +isEnable()boolean
+ +setHotSpotKey(String)boolean
+ +setHotSpotName(String)boolean
+ +startScan()boolean
+ +registerApClientListerner(ApClientListener)void
+ +registerAPStateListener(ApsteateListener)void
+ +registerWifiStateObserver(WifiStateObserver)void
+}
+NormalDialogWindow2 <|-- DialogWindow2
+HotSpotSettingDialog2 <|-- NormalDialogWindow2
+HotSpotSettingDialog2 <|.. View
+HotSpotSettingDialog2 o-- Presenter
+Presenter o-- WifiProxy
+
+```
+
+wifi开关时序图
+```mermaid
+sequenceDiagram
+participant User
+participant ConnectFragment
+participant Presenter
+participant WifiProxy
+User ->> ConnectFragment:用户点击开关
+ConnectFragment ->> Presenter: 点击事件处理
+Presenter ->> WifiProxy:执行开关方法
+Presenter ->> Presenter :超时
+WifiProxy ->> Presenter:执行结果回调
+Presenter ->> ConnectFragment:更新页面
+```
+wifi连接时序图
+```mermaid
+sequenceDiagram
+participant User
+participant WifiDialog
+participant PwdEditDialog2
+participant Presenter
+participant WifiProxy
+User ->> WifiDialog:点击wifi设备
+WifiDialog ->> Presenter: 点击事件处理
+Presenter ->> PwdEditDialog2:打开输入密码弹窗
+User ->> PwdEditDialog2:点击关闭弹窗
+PwdEditDialog2 ->> WifiDialog:取消输入
+User ->> WifiDialog:点击wifi设备
+WifiDialog ->> Presenter: 点击事件处理
+Presenter ->> PwdEditDialog2:打开输入密码弹窗
+User ->> PwdEditDialog2:输入密码点击确定
+PwdEditDialog2 ->> Presenter:处理点击事件
+Presenter ->> WifiProxy:根据密码连接wifi
+WifiProxy ->> PwdEditDialog2:密码错误，重新输入密码
+User ->> PwdEditDialog2:输入密码点击确定
+PwdEditDialog2 ->> Presenter:处理点击事件
+Presenter ->> WifiProxy:根据密码连接wifi
+WifiProxy ->> Presenter:回调连接结果
+Presenter ->> WifiDialog:更新页面
+```
+蓝牙配对时序图

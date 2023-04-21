@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3b67872a67c5b96a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "edf4fceb30e306ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BTSystemSettingUML/total/系统结构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "8e7062be9f6c4420",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BTSystemSettingUML/total/系统结构.md",
+                "file": "BTSystemSettingUML/2.connect/Bluetooth.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "right": {
     "id": "1372e768717695c7",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BTSystemSettingUML/total/系统结构.md",
+                "file": "BTSystemSettingUML/2.connect/Bluetooth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BTSystemSettingUML/total/系统结构.md",
+                "file": "BTSystemSettingUML/2.connect/Bluetooth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BTSystemSettingUML/total/系统结构.md"
+                "file": "BTSystemSettingUML/2.connect/Bluetooth.md"
               }
             }
           }
@@ -166,10 +147,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "edf4fceb30e306ba",
+  "active": "f5d8fce70a011bcf",
   "lastOpenFiles": [
-    "BTSystemSettingUML/wifi.md",
+    "BTSystemSettingUML/2.connect/connect.md",
+    "BTSystemSettingUML/2.connect/Bluetooth.md",
+    "BTSystemSettingUML/connect/connect.md",
+    "BTSystemSettingUML/2.connect",
+    "BTSystemSettingUML/1.total/系统结构.md",
+    "BTSystemSettingUML/1.total",
+    "BTSystemSettingUML/connect",
     "BTSystemSettingUML/total/系统结构.md",
+    "BTSystemSettingUML/wifi.md",
     "BTSystemSettingUML/total",
     "note/Evernote/__@设定控主页_ http___t.cn_E20meQF  _.md",
     "note/Evernote/『那些酷炫的深度学习网络图怎么画出来的？』.md",
@@ -191,10 +179,6 @@
     "note/Evernote/__@我與翔鶴的日常_[文明遛狗].md",
     "note/Evernote/j fla.md",
     "note/Evernote/never forget.md",
-    "note/Evernote/okex.md",
-    "note/Evernote/okex-1.md",
-    "note/Evernote/yi.md",
-    "note/Evernote/无标题笔记-95.md",
     "未命名.canvas",
     "未命名",
     "note/_resources/storage/emulated/0/sina/weibo/weibo/img-1395cd176a552898b7bb18bd5132d0f5.jpg",
@@ -211,9 +195,6 @@
     "note/_resources/_avatar_upload_3398157461213848053.jpg",
     "note/_resources/WebClipper.png",
     "note/_resources/SubNotebooks.png",
-    "note/_resources/storage",
-    "note/_resources/Screenshot_2022-11-01-12-18-21-029_com.sina.weibo.jpg",
-    "note/_resources/Screenshot_2021-03-08-18-25-08-324_com.tencent.mtt",
-    "note/_resources/image3"
+    "note/_resources/Screenshot_2022-11-01-12-18-21-029_com.sina.weibo.jpg"
   ]
 }
