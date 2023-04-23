@@ -49,14 +49,63 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Book/第三帝国三部曲 结尾.md",
+                "file": "BTSystemSettingUML/wifi.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0ce61b90ab51b299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/未命名.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4a25aef8e22cd924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/Device/Android设备重启.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "38a7dd2bc16ff70b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/Permission/系统权限.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "96d113c729872614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/Device/Android设备重启.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -122,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Book/第三帝国三部曲 结尾.md",
+                "file": "Android/Device/Android设备重启.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Book/第三帝国三部曲 结尾.md",
+                "file": "Android/Device/Android设备重启.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Book/第三帝国三部曲 结尾.md"
+                "file": "Android/Device/Android设备重启.md"
               }
             }
           }
@@ -186,6 +235,16 @@
   },
   "active": "67d7cf6a7dccc0ae",
   "lastOpenFiles": [
+    "Android/Permission/系统签名.md",
+    "Android/Permission/系统权限.md",
+    "Android/Device/Android设备重启.md",
+    "Android/Permission",
+    "Android/未命名.md",
+    "Android/Device",
+    "BTSystemSettingUML/wifi.md",
+    "BTSystemSettingUML/1.total/系统结构.md",
+    "BTSystemSettingUML/未命名",
+    "2.Book/第三帝国三部曲 结尾.md",
     "note/Evernote/yi.md",
     "note/Evernote/wlop.md",
     "note/Evernote/virmach Abyss_578.md",
@@ -205,13 +264,6 @@
     "note/Evernote/商品交易掩盖了人们.md",
     "note/Evernote/集体主义.md",
     "note/Evernote/几篇论文实现代码：.md",
-    "note/Evernote/霍乱时期的爱情.md",
-    "note/Evernote/绘画风格 年份.md",
-    "2.Book/第三帝国三部曲 结尾.md",
-    "2.Book/善恶的彼岸.md",
-    "note/Evernote/已读(听)书单.md",
-    "note/Evernote/异邦人无皇.md",
-    "note/Evernote/优化平台 186141119 Abyss@578.md",
     "2.Book",
     "1.Temp/未命名",
     "Android/Other",
@@ -219,10 +271,7 @@
     "Android",
     "BTSystemSettingUML/2.connect",
     "BTSystemSettingUML/1.total",
-    "BTSystemSettingUML/connect",
-    "BTSystemSettingUML/total",
     "未命名.canvas",
-    "1.Temp",
     "note/_resources/storage/emulated/0/sina/weibo/weibo/img-1395cd176a552898b7bb18bd5132d0f5.jpg",
     "note/_resources/storage/emulated/0/sina/weibo/weibo/img-335c4b9240794aca0446afa4f6c04676.jpg",
     "note/_resources/storage/emulated/0/sina/weibo/weibo/img-9a8d85f84d5c8cddd7c923a62941ba23.jpg",
