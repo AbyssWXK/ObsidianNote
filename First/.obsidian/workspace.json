@@ -8,140 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2d61f2b0aecb238",
+            "id": "30188cf71c8293f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Book/战时的第三帝国.md",
+                "file": "C++/C语言 open.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "49b22dc4546c1051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Book/战时的第三帝国 关于举报.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fa539b82acd23bb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Book/战时的第三帝国 科学与意识形态.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "09a37a13362b3a99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BTSystemSettingUML/wifi.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0ce61b90ab51b299",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Android/未命名.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4a25aef8e22cd924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Android/Device/Android设备重启.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "38a7dd2bc16ff70b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Android/Permission/系统权限.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "96d113c729872614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Android/Device/Android设备重启.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2f217ef4b68ee787",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/逻辑短路.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e80b698b5b43228f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/C语言jstring和char指针转换.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2705161d43022c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Android/JNI/未命名.md",
-                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/JNI/未命名.md",
+                "file": "C++/C语言 open.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/JNI/未命名.md",
+                "file": "C++/C语言 open.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/JNI/未命名.md"
+                "file": "C++/C语言 open.md"
               }
             }
           }
@@ -269,20 +147,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2705161d43022c32",
+  "active": "30188cf71c8293f1",
   "lastOpenFiles": [
+    "Linux/ioctl函数.md",
+    "C++/memcpy()函数.md",
+    "C++/memset()函数.md",
+    "JAVA/文件IO.md",
+    "C++/C语言read()和write().md",
+    "Android/JNI/类型.md",
+    "Android/View/WebView.md",
     "C++/C语言jstring和char指针转换.md",
-    "Android/JNI/未命名.md",
-    "Android/JNI",
     "C++/逻辑短路.md",
     "Android/Device/Android设备重启.md",
+    "Android/Permission/系统权限.md",
+    "Android/未命名.md",
+    "BTSystemSettingUML/wifi.md",
+    "C++/C语言 open.md",
+    "Linux",
+    "JAVA",
+    "Android/View/EditView.md",
+    "Android/JNI",
     "C++",
     "Android/Permission/系统签名.md",
-    "Android/Permission/系统权限.md",
     "Android/Permission",
-    "Android/未命名.md",
     "Android/Device",
-    "BTSystemSettingUML/wifi.md",
     "BTSystemSettingUML/1.total/系统结构.md",
     "BTSystemSettingUML/未命名",
     "2.Book/第三帝国三部曲 结尾.md",
@@ -294,19 +182,9 @@
     "note/Evernote/steam.md",
     "note/Evernote/q.md",
     "note/Evernote/pbs 班农.md",
-    "note/Evernote/pat ccfa.md",
-    "note/Evernote/p6.md",
-    "note/Evernote/p49.md",
-    "note/Evernote/p34.md",
-    "2.Book/战时的第三帝国 关于举报 1.md",
-    "2.Book/战时的第三帝国 科学与意识形态.md",
-    "2.Book/战时的第三帝国 关于举报.md",
-    "2.Book/战时的第三帝国.md",
     "2.Book",
     "1.Temp/未命名",
     "Android/Other",
-    "Android/View",
-    "Android",
     "未命名.canvas",
     "note/_resources/storage/emulated/0/sina/weibo/weibo/img-1395cd176a552898b7bb18bd5132d0f5.jpg",
     "note/_resources/storage/emulated/0/sina/weibo/weibo/img-335c4b9240794aca0446afa4f6c04676.jpg",
