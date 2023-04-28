@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "演绎演绎",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "30188cf71c8293f1",
+  "active": "67d7cf6a7dccc0ae",
   "lastOpenFiles": [
     "Linux/ioctl函数.md",
     "C++/memcpy()函数.md",
