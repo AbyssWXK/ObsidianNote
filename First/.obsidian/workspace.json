@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BTSystemSettingUML/3.display/亮度.md",
+                "file": "BTSystemSettingUML/4.voice/声音.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BTSystemSettingUML/3.display/亮度.md",
+                "file": "BTSystemSettingUML/4.voice/声音.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BTSystemSettingUML/3.display/亮度.md",
+                "file": "BTSystemSettingUML/4.voice/声音.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BTSystemSettingUML/3.display/亮度.md"
+                "file": "BTSystemSettingUML/4.voice/声音.md"
               }
             }
           }
@@ -157,10 +157,12 @@
   },
   "active": "4938b273f37ca7bc",
   "lastOpenFiles": [
+    "C++/逻辑短路.md",
+    "BTSystemSettingUML/4.voice/声音.md",
+    "BTSystemSettingUML/3.display/亮度.md",
     "BTSystemSettingUML/2.connect/connect.md",
     "BTSystemSettingUML/2.connect/Bluetooth.md",
-    "BTSystemSettingUML/3.display/亮度.md",
-    "BTSystemSettingUML/未命名 1",
+    "BTSystemSettingUML/4.voice",
     "BTSystemSettingUML/1.total/系统结构.md",
     "note/_resources/image4.jpg",
     "note/_resources/image3-4.jpg",
@@ -175,7 +177,6 @@
     "C++/C语言read()和write().md",
     "C++/C语言jstring和char指针转换.md",
     "C++/C语言 open.md",
-    "C++/逻辑短路.md",
     "JAVA/文件IO.md",
     "Linux/ioctl函数.md",
     "note/Evernote/[cp]我们DNA里的氮元素，我们牙齿里的钙元素，我们血液里的铁元素，还有我们吃掉的东西里的碳元素，.md",
@@ -200,7 +201,6 @@
     "note/Evernote/yi.md",
     "note/Evernote/wlop.md",
     "note/Evernote/virmach Abyss_578.md",
-    "note/Evernote/unity 3d.md",
     "2.Book",
     "1.Temp/未命名",
     "未命名.canvas"
