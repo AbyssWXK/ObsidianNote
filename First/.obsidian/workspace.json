@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/C语言 open.md",
-                "mode": "preview",
+                "file": "BTSystemSettingUML/2.connect/Bluetooth.md",
+                "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "4938b273f37ca7bc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +75,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5eab1a8aa5af160a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/C语言 open.md",
+                "file": "BTSystemSettingUML/2.connect/Bluetooth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/C语言 open.md",
+                "file": "BTSystemSettingUML/2.connect/Bluetooth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/C语言 open.md"
+                "file": "BTSystemSettingUML/2.connect/Bluetooth.md"
               }
             }
           }
@@ -147,22 +166,36 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67d7cf6a7dccc0ae",
+  "active": "4938b273f37ca7bc",
   "lastOpenFiles": [
+    "BTSystemSettingUML/2.connect/connect.md",
+    "BTSystemSettingUML/2.connect/Bluetooth.md",
+    "BTSystemSettingUML/1.total/系统结构.md",
+    "note/_resources/image4.jpg",
+    "note/_resources/image3-4.jpg",
+    "note/_resources/image2-3.jpg",
+    "note/_resources/image1-4.jpg",
+    "note/_resources/image0-5.jpg",
+    "note/_resources/edfa5edb0f94f3537d029170e29f6bc3.png",
+    "note/_resources/图片.webp",
+    "note/_resources/445f24cc31359d4da1925da2f48380bc.jpg",
+    "note/_resources/22b9ad38801123184fb51521db79d514.png",
+    "note/_resources/4f178cef9780875a9c1ec04413e46b12.gif",
+    "C++/C语言read()和write().md",
+    "C++/C语言jstring和char指针转换.md",
+    "C++/C语言 open.md",
+    "C++/逻辑短路.md",
+    "JAVA/文件IO.md",
     "Linux/ioctl函数.md",
+    "note/Evernote/[cp]我们DNA里的氮元素，我们牙齿里的钙元素，我们血液里的铁元素，还有我们吃掉的东西里的碳元素，.md",
     "C++/memcpy()函数.md",
     "C++/memset()函数.md",
-    "JAVA/文件IO.md",
-    "C++/C语言read()和write().md",
     "Android/JNI/类型.md",
     "Android/View/WebView.md",
-    "C++/C语言jstring和char指针转换.md",
-    "C++/逻辑短路.md",
     "Android/Device/Android设备重启.md",
     "Android/Permission/系统权限.md",
     "Android/未命名.md",
     "BTSystemSettingUML/wifi.md",
-    "C++/C语言 open.md",
     "Linux",
     "JAVA",
     "Android/View/EditView.md",
@@ -171,7 +204,6 @@
     "Android/Permission/系统签名.md",
     "Android/Permission",
     "Android/Device",
-    "BTSystemSettingUML/1.total/系统结构.md",
     "BTSystemSettingUML/未命名",
     "2.Book/第三帝国三部曲 结尾.md",
     "note/Evernote/yi.md",
@@ -179,22 +211,9 @@
     "note/Evernote/virmach Abyss_578.md",
     "note/Evernote/unity 3d.md",
     "note/Evernote/The Handbook of Knowledge Representation.md",
-    "note/Evernote/steam.md",
-    "note/Evernote/q.md",
-    "note/Evernote/pbs 班农.md",
     "2.Book",
     "1.Temp/未命名",
     "Android/Other",
-    "未命名.canvas",
-    "note/_resources/storage/emulated/0/sina/weibo/weibo/img-1395cd176a552898b7bb18bd5132d0f5.jpg",
-    "note/_resources/storage/emulated/0/sina/weibo/weibo/img-335c4b9240794aca0446afa4f6c04676.jpg",
-    "note/_resources/storage/emulated/0/sina/weibo/weibo/img-9a8d85f84d5c8cddd7c923a62941ba23.jpg",
-    "note/_resources/storage/emulated/0/sina/weibo/weibo/img-be8e2b0c9196d5d566fd6218bb1e1003.jpg",
-    "note/_resources/IMG_2957.PNG",
-    "note/_resources/图片.webp",
-    "note/_resources/_avatar_upload_3398157461213848053.jpg",
-    "note/_resources/WebClipper.png",
-    "note/_resources/SubNotebooks.png",
-    "note/_resources/Screenshot_2022-11-01-12-18-21-029_com.sina.weibo.jpg"
+    "未命名.canvas"
   ]
 }
