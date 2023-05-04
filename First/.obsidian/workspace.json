@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30188cf71c8293f1",
+            "id": "4938b273f37ca7bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BTSystemSettingUML/2.connect/Bluetooth.md",
+                "file": "BTSystemSettingUML/3.display/亮度.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "4938b273f37ca7bc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BTSystemSettingUML/2.connect/Bluetooth.md",
+                "file": "BTSystemSettingUML/3.display/亮度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BTSystemSettingUML/2.connect/Bluetooth.md",
+                "file": "BTSystemSettingUML/3.display/亮度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BTSystemSettingUML/2.connect/Bluetooth.md"
+                "file": "BTSystemSettingUML/3.display/亮度.md"
               }
             }
           }
@@ -170,6 +159,8 @@
   "lastOpenFiles": [
     "BTSystemSettingUML/2.connect/connect.md",
     "BTSystemSettingUML/2.connect/Bluetooth.md",
+    "BTSystemSettingUML/3.display/亮度.md",
+    "BTSystemSettingUML/未命名 1",
     "BTSystemSettingUML/1.total/系统结构.md",
     "note/_resources/image4.jpg",
     "note/_resources/image3-4.jpg",
@@ -204,16 +195,14 @@
     "Android/Permission/系统签名.md",
     "Android/Permission",
     "Android/Device",
-    "BTSystemSettingUML/未命名",
+    "BTSystemSettingUML/3.display",
     "2.Book/第三帝国三部曲 结尾.md",
     "note/Evernote/yi.md",
     "note/Evernote/wlop.md",
     "note/Evernote/virmach Abyss_578.md",
     "note/Evernote/unity 3d.md",
-    "note/Evernote/The Handbook of Knowledge Representation.md",
     "2.Book",
     "1.Temp/未命名",
-    "Android/Other",
     "未命名.canvas"
   ]
 }
