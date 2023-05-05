@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/getprop 系统属性.md",
+                "file": "BTSystemSettingUML/5.通用/通用.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/getprop 系统属性.md",
+                "file": "BTSystemSettingUML/5.通用/通用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/getprop 系统属性.md",
+                "file": "BTSystemSettingUML/5.通用/通用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/getprop 系统属性.md"
+                "file": "BTSystemSettingUML/5.通用/通用.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "4938b273f37ca7bc",
   "lastOpenFiles": [
-    "BTSystemSettingUML/5.通用/通用.md",
     "Linux/getprop 系统属性.md",
+    "BTSystemSettingUML/5.通用/通用.md",
     "BTSystemSettingUML/4.voice/声音.md",
     "BTSystemSettingUML/5.通用",
     "BTSystemSettingUML/4.voice/未命名",
