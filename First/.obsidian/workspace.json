@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BTSystemSettingUML/1.total/系统结构.md",
+                "file": "Android/ADB/adb广播.md",
                 "mode": "source",
                 "source": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BTSystemSettingUML/1.total/系统结构.md",
+                "file": "Android/ADB/adb广播.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BTSystemSettingUML/1.total/系统结构.md",
+                "file": "Android/ADB/adb广播.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BTSystemSettingUML/1.total/系统结构.md"
+                "file": "Android/ADB/adb广播.md"
               }
             }
           }
@@ -173,13 +173,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c3022cfe040d7bd8",
+  "active": "4938b273f37ca7bc",
   "lastOpenFiles": [
+    "Android/未命名.md",
+    "Android/ADB/adb广播.md",
+    "Android/ADB",
+    "生活/低糖.md",
+    "BTSystemSettingUML/1.total/系统结构.md",
+    "生活",
     "Android/Device/Android设备重启.md",
     "Android/JNI/类型.md",
-    "Android/未命名.md",
     "BTVehicleSettingUML/车辆设置.md",
-    "BTSystemSettingUML/1.total/系统结构.md",
     "BTVehicleSettingUML",
     "BTSystemSettingUML/5.通用/通用.md",
     "Linux/getprop 系统属性.md",
@@ -217,10 +221,6 @@
     "Android/View/EditView.md",
     "Android/JNI",
     "C++",
-    "Android/Permission/系统签名.md",
-    "Android/Permission",
-    "Android/Device",
-    "2.Book/第三帝国三部曲 结尾.md",
     "未命名.canvas"
   ]
 }
