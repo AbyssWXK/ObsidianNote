@@ -1,0 +1,8 @@
+android中onSaveInstanceState在界面销毁时可以保存一些数据，在界面重新加载时用于恢复数据。onSaveInstanceState调用条件，当某个activity变得“容易”被系统销毁时，该activity的onSaveInstanceState就会被执行，除非该activity是被用户主动销毁的，例如当用户按BACK键的时候。
+
+横竖屏切换，分屏切换是系统主动销毁activity，onSaveInstanceState就会执行，当activity重新创建时
+
+分析Bundle savedInstanceState可以看到保存了哪些数据
+
+一般会保存view状态，fragment之类的，
+但恢复的状态会清空一些特殊状态， 比如fragment hide属性

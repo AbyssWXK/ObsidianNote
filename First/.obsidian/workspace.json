@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/ADB/adb广播.md",
+                "file": "1.Temp/未命名/MarkDown.md",
                 "mode": "source",
                 "source": true
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "演绎演绎",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/ADB/adb广播.md",
+                "file": "1.Temp/未命名/MarkDown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/ADB/adb广播.md",
+                "file": "1.Temp/未命名/MarkDown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/ADB/adb广播.md"
+                "file": "1.Temp/未命名/MarkDown.md"
               }
             }
           }
@@ -175,13 +175,28 @@
   },
   "active": "4938b273f37ca7bc",
   "lastOpenFiles": [
-    "Android/未命名.md",
+    "Android/View/ViewPager.md",
+    "1.Temp/未命名/MarkDown.md",
+    "未命名",
+    "Android/常见bug/Fragment重叠问题.md",
+    "Android/View/Fragment.md",
+    "Android/常见bug",
+    "Android/View/未命名.md",
+    "Android/Activity/onSaveInstanceState.md",
+    "Android/未命名 1.md",
+    "Android/Activity",
+    "Android/Device/后台限制.md",
+    "Android/Device/Android设备重启.md",
+    "Android/Permission/系统权限.md",
+    "Android/Permission/系统签名.md",
+    "Android/View/EditView.md",
+    "Android/View/WebView.md",
     "Android/ADB/adb广播.md",
+    "Android/未命名.md",
     "Android/ADB",
     "生活/低糖.md",
     "BTSystemSettingUML/1.total/系统结构.md",
     "生活",
-    "Android/Device/Android设备重启.md",
     "Android/JNI/类型.md",
     "BTVehicleSettingUML/车辆设置.md",
     "BTVehicleSettingUML",
@@ -194,7 +209,6 @@
     "BTSystemSettingUML/wifi.md",
     "C++/逻辑短路.md",
     "BTSystemSettingUML/2.connect/connect.md",
-    "BTSystemSettingUML/2.connect/Bluetooth.md",
     "BTSystemSettingUML/4.voice",
     "note/_resources/image4.jpg",
     "note/_resources/image3-4.jpg",
@@ -206,21 +220,7 @@
     "note/_resources/445f24cc31359d4da1925da2f48380bc.jpg",
     "note/_resources/22b9ad38801123184fb51521db79d514.png",
     "note/_resources/4f178cef9780875a9c1ec04413e46b12.gif",
-    "C++/C语言read()和write().md",
-    "C++/C语言jstring和char指针转换.md",
-    "C++/C语言 open.md",
-    "JAVA/文件IO.md",
-    "Linux/ioctl函数.md",
-    "note/Evernote/[cp]我们DNA里的氮元素，我们牙齿里的钙元素，我们血液里的铁元素，还有我们吃掉的东西里的碳元素，.md",
-    "C++/memcpy()函数.md",
-    "C++/memset()函数.md",
-    "Android/View/WebView.md",
-    "Android/Permission/系统权限.md",
     "Linux",
-    "JAVA",
-    "Android/View/EditView.md",
-    "Android/JNI",
-    "C++",
     "未命名.canvas"
   ]
 }
