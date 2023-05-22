@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "8e7062be9f6c4420",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4938b273f37ca7bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.Temp/未命名/MarkDown.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "5036ad6c01d0fca8",
         "type": "tabs",
         "children": [
@@ -36,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "fe40669cc8dfe131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/未命名.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,10 +168,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c3022cfe040d7bd8",
+  "active": "67d7cf6a7dccc0ae",
   "lastOpenFiles": [
-    "1.Temp/未命名/MarkDown.md",
+    "Android/View/WebView.md",
     "Android/View/ViewPager.md",
+    "1.Temp/未命名/MarkDown.md",
     "未命名",
     "Android/常见bug/Fragment重叠问题.md",
     "Android/View/Fragment.md",
@@ -190,7 +186,6 @@
     "Android/Permission/系统权限.md",
     "Android/Permission/系统签名.md",
     "Android/View/EditView.md",
-    "Android/View/WebView.md",
     "Android/ADB/adb广播.md",
     "Android/未命名.md",
     "Android/ADB",
