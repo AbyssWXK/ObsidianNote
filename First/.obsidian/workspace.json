@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BTSystemSettingUML/1.total/系统结构.md",
-                "mode": "preview",
+                "file": "Android/Activity/Activity启动动画取消.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BTSystemSettingUML/1.total/系统结构.md",
+                "file": "Android/Activity/Activity启动动画取消.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BTSystemSettingUML/1.total/系统结构.md",
+                "file": "Android/Activity/Activity启动动画取消.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BTSystemSettingUML/1.total/系统结构.md"
+                "file": "Android/Activity/Activity启动动画取消.md"
               }
             }
           }
@@ -168,14 +167,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67d7cf6a7dccc0ae",
+  "active": "c3022cfe040d7bd8",
   "lastOpenFiles": [
+    "Android/ADB/adb广播.md",
+    "Android/Activity/Activity启动动画取消.md",
+    "Android/常见bug/Fragment重叠问题.md",
+    "Android/View/Fragment.md",
+    "BTSystemSettingUML/1.total/系统结构.md",
     "Android/View/WebView.md",
     "Android/View/ViewPager.md",
     "1.Temp/未命名/MarkDown.md",
     "未命名",
-    "Android/常见bug/Fragment重叠问题.md",
-    "Android/View/Fragment.md",
     "Android/常见bug",
     "Android/View/未命名.md",
     "Android/Activity/onSaveInstanceState.md",
@@ -186,11 +188,9 @@
     "Android/Permission/系统权限.md",
     "Android/Permission/系统签名.md",
     "Android/View/EditView.md",
-    "Android/ADB/adb广播.md",
     "Android/未命名.md",
     "Android/ADB",
     "生活/低糖.md",
-    "BTSystemSettingUML/1.total/系统结构.md",
     "生活",
     "Android/JNI/类型.md",
     "BTVehicleSettingUML/车辆设置.md",
@@ -203,7 +203,6 @@
     "BTSystemSettingUML/3.display/亮度.md",
     "BTSystemSettingUML/wifi.md",
     "C++/逻辑短路.md",
-    "BTSystemSettingUML/2.connect/connect.md",
     "BTSystemSettingUML/4.voice",
     "note/_resources/image4.jpg",
     "note/_resources/image3-4.jpg",
