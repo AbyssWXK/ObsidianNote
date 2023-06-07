@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/View/TextView.md",
-                "mode": "preview",
+                "file": "生活/低糖.md",
+                "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "efc4a507fd8faf7a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/View/TextView.md",
+                "file": "生活/低糖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/View/TextView.md",
+                "file": "生活/低糖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/View/TextView.md"
+                "file": "生活/低糖.md"
               }
             }
           }
@@ -155,12 +166,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c3022cfe040d7bd8",
+  "active": "efc4a507fd8faf7a",
   "lastOpenFiles": [
+    "Android/View/TextView.md",
     "Android/View/EditView.md",
     "Android/View/Fragment.md",
     "Android/View/ViewPager.md",
-    "Android/View/TextView.md",
     "1.Temp/未命名/MarkDown.md",
     "Android/未命名 1.md",
     "Android/未命名.md",

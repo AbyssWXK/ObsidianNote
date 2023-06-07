@@ -7,6 +7,5 @@ android:autoSizePresetSizes="@array/auto_size_text_sizes_adapt_tag"<!--大小数
 android:autoSizeMaxTextSize="18sp"
 android:autoSizeMinTextSize="10sp" 
 android:autoSizeStepGranularity="1sp"
-
-
 ```
+该特性与singleline冲突，singleline为true时无效。
