@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Temp/未命名/MarkDown.md",
+                "file": "Android/View/TextView.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "23a5550dfaa6ec1f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Temp/未命名/MarkDown.md",
+                "file": "Android/View/TextView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Temp/未命名/MarkDown.md",
+                "file": "Android/View/TextView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Temp/未命名/MarkDown.md"
+                "file": "Android/View/TextView.md"
               }
             }
           }
@@ -166,8 +155,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "23a5550dfaa6ec1f",
+  "active": "c3022cfe040d7bd8",
   "lastOpenFiles": [
+    "Android/View/EditView.md",
+    "Android/View/Fragment.md",
+    "Android/View/ViewPager.md",
+    "Android/View/TextView.md",
+    "1.Temp/未命名/MarkDown.md",
     "Android/未命名 1.md",
     "Android/未命名.md",
     "Android/Device/后台限制.md",
@@ -176,18 +170,13 @@
     "Android/Activity/Activity启动动画取消.md",
     "Android/Activity/onSaveInstanceState.md",
     "Android/常见bug/Fragment重叠问题.md",
-    "Android/View/Fragment.md",
     "BTSystemSettingUML/1.total/系统结构.md",
     "Android/View/WebView.md",
-    "Android/View/ViewPager.md",
-    "1.Temp/未命名/MarkDown.md",
     "未命名",
     "Android/常见bug",
-    "Android/View/未命名.md",
     "Android/Activity",
     "Android/Permission/系统权限.md",
     "Android/Permission/系统签名.md",
-    "Android/View/EditView.md",
     "Android/ADB",
     "生活/低糖.md",
     "生活",

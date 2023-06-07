@@ -1,0 +1,12 @@
+文字大小自动缩小
+```xml
+android:maxLines="1"
+android:autoSizeTextType="uniform"  
+android:autoSizePresetSizes="@array/auto_size_text_sizes_adapt_tag"<!--大小数组-->
+||
+android:autoSizeMaxTextSize="18sp"
+android:autoSizeMinTextSize="10sp" 
+android:autoSizeStepGranularity="1sp"
+
+
+```
