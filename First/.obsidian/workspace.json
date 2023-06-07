@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/低糖.md",
-                "mode": "source",
+                "file": "Android/System/SystemProperties.md",
+                "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "efc4a507fd8faf7a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/低糖.md",
+                "file": "Android/System/SystemProperties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/低糖.md",
+                "file": "Android/System/SystemProperties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/低糖.md"
+                "file": "Android/System/SystemProperties.md"
               }
             }
           }
@@ -166,8 +155,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "efc4a507fd8faf7a",
+  "active": "c3022cfe040d7bd8",
   "lastOpenFiles": [
+    "Android/System/SettingsProvider.md",
+    "Android/System/SystemProperties.md",
+    "Android/Permission/系统权限.md",
+    "Android/常见bug/Fragment重叠问题.md",
+    "Android/Activity/onSaveInstanceState.md",
+    "Android/Activity/Activity启动动画取消.md",
+    "生活/低糖.md",
+    "Android/System",
     "Android/View/TextView.md",
     "Android/View/EditView.md",
     "Android/View/Fragment.md",
@@ -178,18 +175,13 @@
     "Android/Device/后台限制.md",
     "Android/Device/Android设备重启.md",
     "Android/ADB/adb广播.md",
-    "Android/Activity/Activity启动动画取消.md",
-    "Android/Activity/onSaveInstanceState.md",
-    "Android/常见bug/Fragment重叠问题.md",
     "BTSystemSettingUML/1.total/系统结构.md",
     "Android/View/WebView.md",
     "未命名",
     "Android/常见bug",
     "Android/Activity",
-    "Android/Permission/系统权限.md",
     "Android/Permission/系统签名.md",
     "Android/ADB",
-    "生活/低糖.md",
     "生活",
     "Android/JNI/类型.md",
     "BTVehicleSettingUML/车辆设置.md",
@@ -200,8 +192,6 @@
     "BTSystemSettingUML/5.通用",
     "BTSystemSettingUML/4.voice/未命名",
     "BTSystemSettingUML/3.display/亮度.md",
-    "BTSystemSettingUML/wifi.md",
-    "C++/逻辑短路.md",
     "BTSystemSettingUML/4.voice",
     "note/_resources/image4.jpg",
     "note/_resources/image3-4.jpg",
@@ -213,7 +203,6 @@
     "note/_resources/445f24cc31359d4da1925da2f48380bc.jpg",
     "note/_resources/22b9ad38801123184fb51521db79d514.png",
     "note/_resources/4f178cef9780875a9c1ec04413e46b12.gif",
-    "Linux",
     "未命名.canvas"
   ]
 }
