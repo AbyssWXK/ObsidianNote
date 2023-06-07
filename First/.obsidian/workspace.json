@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "23a5550dfaa6ec1f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +166,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c3022cfe040d7bd8",
+  "active": "23a5550dfaa6ec1f",
   "lastOpenFiles": [
     "Android/未命名 1.md",
     "Android/未命名.md",
