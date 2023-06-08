@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/View/Switch.md",
+                "file": "Android/System/SystemProperties.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/View/Switch.md",
+                "file": "Android/System/SystemProperties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/View/Switch.md",
+                "file": "Android/System/SystemProperties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/View/Switch.md"
+                "file": "Android/System/SystemProperties.md"
               }
             }
           }
@@ -157,10 +157,11 @@
   },
   "active": "c3022cfe040d7bd8",
   "lastOpenFiles": [
+    "Android/Device/后台限制.md",
+    "Android/System/SystemProperties.md",
+    "Android/View/Switch.md",
     "Android/View/EditView.md",
     "1.Temp/未命名/MarkDown.md",
-    "Android/View/Switch.md",
-    "Android/System/SystemProperties.md",
     "Android/System/SettingsProvider.md",
     "Android/Permission/系统权限.md",
     "Android/常见bug/Fragment重叠问题.md",
@@ -173,7 +174,6 @@
     "Android/View/ViewPager.md",
     "Android/未命名 1.md",
     "Android/未命名.md",
-    "Android/Device/后台限制.md",
     "Android/Device/Android设备重启.md",
     "Android/ADB/adb广播.md",
     "BTSystemSettingUML/1.total/系统结构.md",
