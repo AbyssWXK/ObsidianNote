@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/System/SystemProperties.md",
-                "mode": "preview",
+                "file": "Android/View/Switch.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/System/SystemProperties.md",
+                "file": "Android/View/Switch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/System/SystemProperties.md",
+                "file": "Android/View/Switch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/System/SystemProperties.md"
+                "file": "Android/View/Switch.md"
               }
             }
           }
@@ -157,8 +157,11 @@
   },
   "active": "c3022cfe040d7bd8",
   "lastOpenFiles": [
-    "Android/System/SettingsProvider.md",
+    "Android/View/EditView.md",
+    "1.Temp/未命名/MarkDown.md",
+    "Android/View/Switch.md",
     "Android/System/SystemProperties.md",
+    "Android/System/SettingsProvider.md",
     "Android/Permission/系统权限.md",
     "Android/常见bug/Fragment重叠问题.md",
     "Android/Activity/onSaveInstanceState.md",
@@ -166,10 +169,8 @@
     "生活/低糖.md",
     "Android/System",
     "Android/View/TextView.md",
-    "Android/View/EditView.md",
     "Android/View/Fragment.md",
     "Android/View/ViewPager.md",
-    "1.Temp/未命名/MarkDown.md",
     "Android/未命名 1.md",
     "Android/未命名.md",
     "Android/Device/后台限制.md",
@@ -191,7 +192,6 @@
     "BTSystemSettingUML/4.voice/声音.md",
     "BTSystemSettingUML/5.通用",
     "BTSystemSettingUML/4.voice/未命名",
-    "BTSystemSettingUML/3.display/亮度.md",
     "BTSystemSettingUML/4.voice",
     "note/_resources/image4.jpg",
     "note/_resources/image3-4.jpg",
