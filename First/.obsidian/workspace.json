@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/System/SystemProperties.md",
+                "file": "Android/Serivce/Service.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/System/SystemProperties.md",
+                "file": "Android/Serivce/Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/System/SystemProperties.md",
+                "file": "Android/Serivce/Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/System/SystemProperties.md"
+                "file": "Android/Serivce/Service.md"
               }
             }
           }
@@ -157,8 +157,10 @@
   },
   "active": "c3022cfe040d7bd8",
   "lastOpenFiles": [
-    "Android/Device/后台限制.md",
     "Android/System/SystemProperties.md",
+    "Android/Serivce/Service.md",
+    "Android/Serivce",
+    "Android/Device/后台限制.md",
     "Android/View/Switch.md",
     "Android/View/EditView.md",
     "1.Temp/未命名/MarkDown.md",
@@ -189,10 +191,8 @@
     "BTVehicleSettingUML",
     "BTSystemSettingUML/5.通用/通用.md",
     "Linux/getprop 系统属性.md",
-    "BTSystemSettingUML/4.voice/声音.md",
     "BTSystemSettingUML/5.通用",
     "BTSystemSettingUML/4.voice/未命名",
-    "BTSystemSettingUML/4.voice",
     "note/_resources/image4.jpg",
     "note/_resources/image3-4.jpg",
     "note/_resources/image2-3.jpg",
