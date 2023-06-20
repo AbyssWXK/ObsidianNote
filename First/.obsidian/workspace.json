@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Book/第三帝国三部曲 结尾.md",
+                "file": "2.Book/对自己负责.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "姑母",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Book/第三帝国三部曲 结尾.md",
+                "file": "2.Book/对自己负责.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Book/第三帝国三部曲 结尾.md",
+                "file": "2.Book/对自己负责.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Book/第三帝国三部曲 结尾.md"
+                "file": "2.Book/对自己负责.md"
               }
             }
           }
@@ -156,8 +155,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "12f373b77239a5eb",
+  "active": "c3022cfe040d7bd8",
   "lastOpenFiles": [
+    "2.Book/开放社会及其敌人",
+    "2.Book/对自己负责.md",
+    "2.Book/第三帝国三部曲 结尾.md",
     "note/Evernote/微博21.8.7.md",
     "note/Evernote/已读(听)书单.md",
     "2.Book/战时的第三帝国.md",
@@ -183,9 +185,6 @@
     "Android/View/ViewPager.md",
     "Android/未命名 1.md",
     "Android/未命名.md",
-    "Android/Device/Android设备重启.md",
-    "Android/ADB/adb广播.md",
-    "BTSystemSettingUML/1.total/系统结构.md",
     "未命名",
     "Android/常见bug",
     "Android/Activity",
