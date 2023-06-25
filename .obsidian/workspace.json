@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "62533df03ac7d6fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "05762b66f0d7c7df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e36aaa2856170ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First/BTSystemSettingUML/wifi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b277e1a3ca94c4cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日语/词汇/新编1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f9226333ca27336",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fdc6e5c4b2ff150",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd311e6b891f0786",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26f35f760d3f8da6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c50e62ae35a852e9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62306d9d5626a74b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f01b2ca7c80de09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "214052baf34cd937",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日语/词汇/新编1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ee065d766d32997",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日语/词汇/新编1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3b4c2f2d2770f9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e1831536e0a43ebc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日语/词汇/新编1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b277e1a3ca94c4cf",
+  "lastOpenFiles": [
+    "日语/未命名.md",
+    "日语/词汇/新编1.md",
+    "日语/词汇",
+    "First/BTSystemSettingUML/wifi.md",
+    "日语",
+    "First/Android/View/Utils/拓展点击区域.md",
+    "First/Android/常见bug/Fragment重叠问题.md",
+    "First/Android/View/ViewPager.md",
+    "First/Android/View/WebView.md",
+    "First/Android/View/TextView.md",
+    "First/Android/View/Utils",
+    "First/Android/View/Switch.md",
+    "First/Android/View/Fragment.md",
+    "First/Android/View/EditView.md",
+    "First/Android/System/SettingsProvider.md",
+    "First/Android/System/SystemProperties.md",
+    "First/Android/Serivce/Service.md",
+    "First/Android/Permission/系统签名.md",
+    "First/Android/Permission/系统权限.md",
+    "First/Android/Other/HTML5.md",
+    "First/Android/JNI/类型.md",
+    "First/Android/Device/后台限制.md",
+    "First/Android/Device/Android设备重启.md",
+    "First/Android/ADB/adb广播.md",
+    "First/Android/Activity/onSaveInstanceState.md",
+    "First/Android/Activity/Activity启动动画取消.md",
+    "First/Android/常见bug",
+    "First/Android/View",
+    "First/Android/System",
+    "First/Android/Serivce",
+    "First/Android/Permission",
+    "First/Android/Other",
+    "First/Android/JNI",
+    "First/2.Book/第三帝国三部曲 结尾.md",
+    "First/2.Book/战时的第三帝国.md",
+    "First/2.Book/战时的第三帝国 科学与意识形态.md"
+  ]
+}
