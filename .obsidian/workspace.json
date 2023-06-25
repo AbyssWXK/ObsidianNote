@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e36aaa2856170ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "First/BTSystemSettingUML/wifi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b277e1a3ca94c4cf",
             "type": "leaf",
             "state": {
@@ -27,6 +15,18 @@
               "state": {
                 "file": "日语/词汇/新编1.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abf154c0f929392c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日语/五十音图.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日语/词汇/新编1.md",
+                "file": "日语/五十音图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日语/词汇/新编1.md",
+                "file": "日语/五十音图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日语/词汇/新编1.md"
+                "file": "日语/五十音图.md"
               }
             }
           }
@@ -159,12 +159,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b277e1a3ca94c4cf",
+  "active": "abf154c0f929392c",
   "lastOpenFiles": [
-    "日语/未命名.md",
+    "Pasted image 20230625215542.png",
     "日语/词汇/新编1.md",
-    "日语/词汇",
     "First/BTSystemSettingUML/wifi.md",
+    "日语/五十音图.md",
+    "First/1.Temp/未命名/MarkDown.md",
+    "git test.md",
+    "README.md",
+    "_resources/img-1395cd176a552898b7bb18bd5132d0f5.jpg.md",
+    "日语/词汇",
     "日语",
     "First/Android/View/Utils/拓展点击区域.md",
     "First/Android/常见bug/Fragment重叠问题.md",
@@ -185,17 +190,12 @@
     "First/Android/Device/后台限制.md",
     "First/Android/Device/Android设备重启.md",
     "First/Android/ADB/adb广播.md",
-    "First/Android/Activity/onSaveInstanceState.md",
-    "First/Android/Activity/Activity启动动画取消.md",
     "First/Android/常见bug",
     "First/Android/View",
     "First/Android/System",
     "First/Android/Serivce",
     "First/Android/Permission",
     "First/Android/Other",
-    "First/Android/JNI",
-    "First/2.Book/第三帝国三部曲 结尾.md",
-    "First/2.Book/战时的第三帝国.md",
-    "First/2.Book/战时的第三帝国 科学与意识形态.md"
+    "First/Android/JNI"
   ]
 }
