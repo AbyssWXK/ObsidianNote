@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "131ae07492534e43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First/Android/System/SystemProperties.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#うえ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日语/词汇/新编1-第一单元-词表.md",
+                "file": "First/Android/System/SystemProperties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日语/词汇/新编1-第一单元-词表.md",
+                "file": "First/Android/System/SystemProperties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日语/词汇/新编1-第一单元-词表.md"
+                "file": "First/Android/System/SystemProperties.md"
               }
             }
           }
@@ -156,10 +169,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "26f35f760d3f8da6",
+  "active": "131ae07492534e43",
   "lastOpenFiles": [
-    "日语/词汇/新编1-第一单元-中文词表.md",
+    "First/Android/常见bug/Fragment重叠问题.md",
     "日语/词汇/新编1-第一单元-词表.md",
+    "日语/词汇/新编1-第一单元-中文词表.md",
     "日语/五十音图.md",
     "Pasted image 20230625215542.png",
     "README.md",
@@ -184,7 +198,6 @@
     "First/Android/View/EditView.md",
     "First/Android/View/Utils/拓展点击区域.md",
     "First/Android/System/SettingsProvider.md",
-    "First/Android/Serivce/Service.md",
     "日语/词汇",
     "日语",
     "First/Android/View/Utils",
