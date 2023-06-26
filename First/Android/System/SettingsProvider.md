@@ -5,7 +5,7 @@
 - /data/system/users/0/settings_system.xml
 - /data/system/users/0/settings_secure.xml
 
-与[SystemProperties](obsidian://open?vault=First&file=Android%2FSystem%2FSystemProperties)相比
+与[[SystemProperties]]相比
 SettingsProvider有点类似Android的properties系统（Android属性系统）：SystemProperties。SystemProperties除具有SettingsProvider以上的三个特性，SettingsProvider和SystemProperties的不同点在于：
 
 - 数据保存方式不同：SystemProperties的数据保存属性文件中（/system/build.prop等），开机后会被加载到system properties store；SettingsProvider的数据保存在文件/data/system/users/0/settings_***.xml和数据库settings.db中；
