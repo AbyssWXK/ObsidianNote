@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日语/词汇/新编1.md",
+                "file": "First/Android/Device/后台限制.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日语/五十音图.md",
+                "file": "First/Android/Device/后台限制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日语/五十音图.md",
+                "file": "First/Android/Device/后台限制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日语/五十音图.md"
+                "file": "First/Android/Device/后台限制.md"
               }
             }
           }
@@ -154,10 +154,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fd311e6b891f0786",
+  "active": "b277e1a3ca94c4cf",
   "lastOpenFiles": [
-    "Android/adb 命令/am.md",
+    "First/Android/ADB/adb广播.md",
+    "First/Android/Activity/onSaveInstanceState.md",
+    "First/Android/Activity/Activity启动动画取消.md",
+    "First/Android/常见bug/Fragment重叠问题.md",
     "日语/五十音图.md",
+    "Android/adb 命令/am.md",
     "Pasted image 20230625215542.png",
     "日语/词汇/新编1.md",
     "First/BTSystemSettingUML/wifi.md",
@@ -168,7 +172,6 @@
     "日语/词汇",
     "日语",
     "First/Android/View/Utils/拓展点击区域.md",
-    "First/Android/常见bug/Fragment重叠问题.md",
     "First/Android/View/ViewPager.md",
     "First/Android/View/WebView.md",
     "First/Android/View/TextView.md",
@@ -183,9 +186,6 @@
     "First/Android/Permission/系统权限.md",
     "First/Android/Other/HTML5.md",
     "First/Android/JNI/类型.md",
-    "First/Android/Device/后台限制.md",
-    "First/Android/Device/Android设备重启.md",
-    "First/Android/ADB/adb广播.md",
     "First/Android/常见bug",
     "First/Android/View",
     "First/Android/System",

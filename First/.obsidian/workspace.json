@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/低糖.md",
+                "file": "Android/Permission/系统权限.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/低糖.md",
+                "file": "Android/Permission/系统权限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/低糖.md",
+                "file": "Android/Permission/系统权限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/低糖.md"
+                "file": "Android/Permission/系统权限.md"
               }
             }
           }
@@ -155,7 +155,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67d7cf6a7dccc0ae",
+  "active": "c3022cfe040d7bd8",
   "lastOpenFiles": [
     "Android/View/Utils/拓展点击区域.md",
     "Android/System/SettingsProvider.md",
