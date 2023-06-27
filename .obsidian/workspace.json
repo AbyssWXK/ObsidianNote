@@ -11,12 +11,9 @@
             "id": "e98ad8edb162e662",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "日语/词汇/新编1-第一单元-中文词表.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Pasted image 20230625230912.png"
               }
             }
           }
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日语/词汇/新编1-第一单元-中文词表.md",
+                "file": "Pasted image 20230625230912.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日语/词汇/新编1-第一单元-中文词表.md",
+                "file": "Pasted image 20230625230912.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日语/词汇/新编1-第一单元-中文词表.md"
+                "file": "Pasted image 20230625230912.png"
               }
             }
           }
@@ -157,13 +154,14 @@
   },
   "active": "e98ad8edb162e662",
   "lastOpenFiles": [
-    "日语/词汇/新编1-第一单元-词表.md",
-    "日语/词汇/新编1-第一单元-中文词表.md",
-    "日语/五十音图.md",
+    "Pasted image 20230625215542.png",
     "Pasted image 20230625230912.png",
+    "日语/五十音图.md",
+    "Pasted image 20230627152305.png",
+    "日语/词汇/新编1-第一单元-中文词表.md",
+    "日语/词汇/新编1-第一单元-词表.md",
     "First/Android/System/SystemProperties.md",
     "First/Android/常见bug/Fragment重叠问题.md",
-    "Pasted image 20230625215542.png",
     "README.md",
     "git test.md",
     "First/README.md",
