@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First/Android/System/SystemProperties.md",
+                "file": "日语/词汇/新编1-第一单元-词表.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First/Android/System/SystemProperties.md",
+                "file": "日语/词汇/新编1-第一单元-词表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "First/Android/System/SystemProperties.md",
+                "file": "日语/词汇/新编1-第一单元-词表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "First/Android/System/SystemProperties.md"
+                "file": "日语/词汇/新编1-第一单元-词表.md"
               }
             }
           }
@@ -171,16 +171,16 @@
   },
   "active": "131ae07492534e43",
   "lastOpenFiles": [
-    "First/Android/常见bug/Fragment重叠问题.md",
-    "日语/词汇/新编1-第一单元-词表.md",
     "日语/词汇/新编1-第一单元-中文词表.md",
+    "日语/词汇/新编1-第一单元-词表.md",
+    "First/Android/System/SystemProperties.md",
+    "First/Android/常见bug/Fragment重叠问题.md",
     "日语/五十音图.md",
     "Pasted image 20230625215542.png",
     "README.md",
     "git test.md",
     "First/README.md",
     "系统属性.md",
-    "First/Android/System/SystemProperties.md",
     "First/Linux/getprop 系统属性.md",
     "First/Linux/ioctl函数.md",
     "First/JAVA/文件IO.md",
