@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First/Android/View/Utils/透明度.md",
+                "file": "First/Android/ADB/模拟点击.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First/Android/View/Utils/透明度.md",
+                "file": "First/Android/ADB/模拟点击.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "First/Android/View/Utils/透明度.md",
+                "file": "First/Android/ADB/模拟点击.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "First/Android/View/Utils/透明度.md"
+                "file": "First/Android/ADB/模拟点击.md"
               }
             }
           }
@@ -157,15 +157,18 @@
   },
   "active": "e98ad8edb162e662",
   "lastOpenFiles": [
-    "First/Android/View/Utils/拓展点击区域.md",
+    "First/Android/View/Fragment.md",
     "First/Android/View/Utils/透明度.md",
+    "First/Android/ADB/adb广播.md",
+    "First/Android/ADB/模拟点击.md",
+    "日语/词汇/新编1-第一单元-词表.md",
+    "日语/词汇/新编1-第一单元-中文词表.md",
+    "日语/五十音图.md",
+    "First/Android/View/Utils/拓展点击区域.md",
     "First/Android/JNI/类型.md",
     "Pasted image 20230625230912.png",
     "Pasted image 20230625215542.png",
-    "日语/五十音图.md",
     "Pasted image 20230627152305.png",
-    "日语/词汇/新编1-第一单元-中文词表.md",
-    "日语/词汇/新编1-第一单元-词表.md",
     "First/Android/System/SystemProperties.md",
     "First/Android/常见bug/Fragment重叠问题.md",
     "README.md",
@@ -183,9 +186,6 @@
     "First/C++/逻辑短路.md",
     "First/Android/View/WebView.md",
     "First/Android/View/ViewPager.md",
-    "First/Android/View/Fragment.md",
-    "First/Android/View/Switch.md",
-    "First/Android/View/TextView.md",
     "日语/词汇",
     "日语",
     "First/Android/View/Utils",
