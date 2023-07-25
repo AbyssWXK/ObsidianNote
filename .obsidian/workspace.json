@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日语/词汇/新编1-第一单元-词表.md",
+                "file": "First/Android/System/SystemProperties.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日语/词汇/新编1-第一单元-词表.md",
+                "file": "First/Android/System/SystemProperties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日语/词汇/新编1-第一单元-词表.md",
+                "file": "First/Android/System/SystemProperties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日语/词汇/新编1-第一单元-词表.md"
+                "file": "First/Android/System/SystemProperties.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "e98ad8edb162e662",
   "lastOpenFiles": [
-    "日语/词汇/新编1-第一单元-中文词表.md",
+    "First/Android/Serivce/Service.md",
     "日语/词汇/新编1-第一单元-词表.md",
+    "日语/词汇/新编1-第一单元-中文词表.md",
     "First/Android/ADB/模拟点击.md",
     "First/Android/View/Fragment.md",
     "First/Android/View/Utils/透明度.md",
@@ -185,7 +186,6 @@
     "First/C++/C语言 open.md",
     "First/C++/逻辑短路.md",
     "First/Android/View/WebView.md",
-    "First/Android/View/ViewPager.md",
     "日语/词汇",
     "日语",
     "First/Android/View/Utils",
