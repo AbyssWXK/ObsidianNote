@@ -155,8 +155,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c3022cfe040d7bd8",
+  "active": "67d7cf6a7dccc0ae",
   "lastOpenFiles": [
+    "Android/Permission/系统权限.md",
     "Android/View/Utils/拓展点击区域.md",
     "Android/System/SettingsProvider.md",
     "Android/View/Utils",
@@ -181,7 +182,6 @@
     "Android/View/Switch.md",
     "Android/View/EditView.md",
     "1.Temp/未命名/MarkDown.md",
-    "Android/Permission/系统权限.md",
     "Android/System",
     "Android/View/TextView.md",
     "Android/View/Fragment.md",
