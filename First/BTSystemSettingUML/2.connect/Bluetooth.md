@@ -15,3 +15,17 @@ BluetoothPairingDialog2 ->> BluetoothProxy:确认配对
 BluetoothProxy ->> Presenter:配对成功回调
 Presenter ->> BluetoothSettingDialog2:页面更新
 ```
+
+```mermaid
+sequenceDiagram
+participant User
+participant BluetoothSettingFragment
+participant BluetoothProxy
+participant BluetoothProxy
+User ->> BluetoothSettingFragment:点击未配对蓝牙设备
+BluetoothSettingFragment ->> BluetoothProxy:请求配对
+BluetoothProxy ->>  BluetoothSettingFragment:配对确认弹窗
+User ->> BluetoothSettingFragment:确认配对
+BluetoothSettingFragment ->> BluetoothProxy:确认配对
+BluetoothProxy ->> BluetoothSettingFragment:配对成功回调
+```
