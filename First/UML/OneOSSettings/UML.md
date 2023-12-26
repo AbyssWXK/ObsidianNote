@@ -5,18 +5,35 @@ class GlySettingsActivity{
     -GlyFragmentAdapter mFragmentAdapter
 }
 class ViePagerAdapter{
--AssistFragment assistFragment
--LightFragment lightFragment
--SeatFragment seatFragment
--WindowFragment windowFragment
+-GlyCarAssistantFragment fragment
+-GlyCommonFragment fragment
+-DriveAssistanceFragment fragment
+-XXXFragment fragment
 }
-class AssistFragment
-AssistFragment o-- ViePagerAdapter
-class LightFragment
-LightFragment o-- ViePagerAdapter
-class SeatFragment
-SeatFragment o-- ViePagerAdapter
-class WindowFragment
-WindowFragment o-- ViePagerAdapter
+class GlyBaseFragment
+class GlyCarAssistantFragment{
+ -GlyVehicleInfoDialog dialog
+}
+class GlyVehicleInfoDialog
+GlyVehicleInfoDialog o-- GlyCarAssistantFragment
+GlyCarAssistantFragment o-- ViePagerAdapter
+class GlyCommonFragment
+GlyCommonFragment o-- ViePagerAdapter
+class DriveAssistanceFragment{
+ -GlyDriveCMSFTipsDialog dialog 
+ -GlyDriveCMSFWarnTipsDialog dialog 
+ ...
+}
+class GlyDriveCMSFTipsDialog
+GlyDriveCMSFTipsDialog o-- DriveAssistanceFragment
+class GlyDriveCMSFWarnTipsDialog
+GlyDriveCMSFWarnTipsDialog o-- DriveAssistanceFragment
+DriveAssistanceFragment o-- ViePagerAdapter
+class XXXFragment
+XXXFragment o-- ViePagerAdapter
+GlyCarAssistantFragment --> GlyBaseFragment
+GlyCommonFragment --> GlyBaseFragment
+DriveAssistanceFragment --> GlyBaseFragment
+XXXFragment --> GlyBaseFragment
 ViePagerAdapter o-- GlySettingsActivity
 ```

@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 307.5,
+    "collapsed": true
   },
   "right": {
     "id": "1372e768717695c7",
@@ -173,7 +174,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c3022cfe040d7bd8",
+  "active": "67d7cf6a7dccc0ae",
   "lastOpenFiles": [
     "UML/BTVehicleSettingUML/车辆设置.md",
     "UML/OneOSSettings/UML.md",
