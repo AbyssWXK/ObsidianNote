@@ -1,5 +1,23 @@
 ```mermaid
 classDiagram
+class GlyICarViewModel{
+ IGlyCar mCar
+ IGlyHev mHev
+}
+class GlyOneOSApiViewModel{
+ NaviManager mNaviManager
+ UserManager mUserManager
+ DockBarManager mDockBarManager
+ VrManager mVrManager
+}
+class GlySoundViewModel{
+ IGlyAudio mGlyAudio
+ Audio mAudio
+}
+class GlySystemViewModel{
+ GlySystemInfo mGlySystem
+}
+
 class GlySettingsActivity{
     -GlySettingsMenuAdapter mMenuAdapter
     -GlyFragmentAdapter mFragmentAdapter
@@ -10,7 +28,6 @@ class ViePagerAdapter{
 -DriveAssistanceFragment fragment
 -XXXFragment fragment
 }
-class GlyBaseFragment
 class GlyCarAssistantFragment{
  -GlyVehicleInfoDialog dialog
 }
@@ -25,15 +42,71 @@ class DriveAssistanceFragment{
  ...
 }
 class GlyDriveCMSFTipsDialog
-GlyDriveCMSFTipsDialog o-- DriveAssistanceFragment
+GlyDriveCMSFTipsDialog *-- DriveAssistanceFragment
 class GlyDriveCMSFWarnTipsDialog
-GlyDriveCMSFWarnTipsDialog o-- DriveAssistanceFragment
-DriveAssistanceFragment o-- ViePagerAdapter
+GlyDriveCMSFWarnTipsDialog *-- DriveAssistanceFragment
+DriveAssistanceFragment *-- ViePagerAdapter
 class XXXFragment
-XXXFragment o-- ViePagerAdapter
+XXXFragment *-- ViePagerAdapter
+ViePagerAdapter *-- GlySettingsActivity
+
+GlySettingsActivity ..> GlyOneOSApiViewModel
+GlySettingsActivity ..> GlyICarViewModel
+GlySettingsActivity ..> GlySoundViewModel
+GlySettingsActivity ..> GlySystemViewModel
+
+XXXFragment ..> GlyOneOSApiViewModel
+XXXFragment ..> GlyICarViewModel
+XXXFragment ..> GlySoundViewModel
+XXXFragment ..> GlySystemViewModel
+
+
+
+```
 GlyCarAssistantFragment --> GlyBaseFragment
 GlyCommonFragment --> GlyBaseFragment
 DriveAssistanceFragment --> GlyBaseFragment
 XXXFragment --> GlyBaseFragment
-ViePagerAdapter o-- GlySettingsActivity
+
+
+GlyCarAssistantFragment ..> GlyOneOSApiViewModel
+GlyCarAssistantFragment ..> GlyICarViewModel
+GlyCarAssistantFragment ..> GlySoundViewModel
+GlyCarAssistantFragment ..> GlySystemViewModel
+
+GlyCommonFragment ..> GlyOneOSApiViewModel
+GlyCommonFragment ..> GlyICarViewModel
+GlyCommonFragment ..> GlySoundViewModel
+GlyCommonFragment ..> GlySystemViewModel
+
+DriveAssistanceFragment ..> GlyOneOSApiViewModel
+DriveAssistanceFragment ..> GlyICarViewModel
+DriveAssistanceFragment ..> GlySoundViewModel
+DriveAssistanceFragment ..> GlySystemViewModel
+
+```mermaid
+graph 
+
+subgraph .
+subgraph View
+	Activity(Activity)
+    Fragment(Fragment)
+    Dialog(Dialog)
+end
+subgraph ViewModel
+    GlyICarViewModel
+    GlyOneOSApiViewModel
+    GlySoundViewModel
+    GlySystemViewModel
+end
+subgraph Model
+    CarApi
+    SystemApi
+    OneOsApi
+    SoundApi
+end
+
+
+end
+
 ```

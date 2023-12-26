@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "right": {
     "id": "1372e768717695c7",
@@ -174,11 +173,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67d7cf6a7dccc0ae",
+  "active": "c3022cfe040d7bd8",
   "lastOpenFiles": [
+    "UML/BTSystemSettingUML/1.total/系统结构.md",
     "UML/BTVehicleSettingUML/车辆设置.md",
     "UML/OneOSSettings/UML.md",
-    "UML/BTSystemSettingUML/1.total/系统结构.md",
     "Android/Permission/系统权限.md",
     "UML/OneOSSettings/未命名.md",
     "UML/OneOSSettings",
