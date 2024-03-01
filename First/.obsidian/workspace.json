@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5036ad6c01d0fca8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c3022cfe040d7bd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UML/OneOSSettings/UML.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "1cc3dd2f5aad8ee8",
         "type": "tabs",
         "children": [
@@ -36,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a5abf2100992bc6b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 307.5,
+    "collapsed": true
   },
   "right": {
     "id": "1372e768717695c7",
@@ -173,7 +167,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c3022cfe040d7bd8",
+  "active": "a5abf2100992bc6b",
   "lastOpenFiles": [
     "UML/BTSystemSettingUML/1.total/系统结构.md",
     "UML/BTVehicleSettingUML/车辆设置.md",
