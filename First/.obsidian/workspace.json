@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UML/OneOSSettings/UML.md",
+                "file": "1.Temp/未命名/MarkDown.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "a5abf2100992bc6b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "right": {
     "id": "1372e768717695c7",
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UML/OneOSSettings/UML.md",
+                "file": "1.Temp/未命名/MarkDown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UML/OneOSSettings/UML.md",
+                "file": "1.Temp/未命名/MarkDown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UML/OneOSSettings/UML.md"
+                "file": "1.Temp/未命名/MarkDown.md"
               }
             }
           }
@@ -167,11 +155,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a5abf2100992bc6b",
+  "active": "67d7cf6a7dccc0ae",
   "lastOpenFiles": [
+    "未命名",
+    "README.md",
+    "未命名 1",
+    "Android/常见应用/Android 浮窗.md",
+    "Android/System/SettingsProvider.md",
+    "Android/常见应用",
+    "Android/System/SystemProperties.md",
+    "UML/OneOSSettings/UML.md",
     "UML/BTSystemSettingUML/1.total/系统结构.md",
     "UML/BTVehicleSettingUML/车辆设置.md",
-    "UML/OneOSSettings/UML.md",
     "Android/Permission/系统权限.md",
     "UML/OneOSSettings/未命名.md",
     "UML/OneOSSettings",
@@ -188,13 +183,9 @@
     "UML/BTSystemSettingUML/3.display",
     "UML/BTSystemSettingUML/2.connect",
     "UML/BTSystemSettingUML/1.total",
-    "UML/BTSystemSettingUML",
-    "UML",
     "未命名.md",
     "Android/View/Utils/拓展点击区域.md",
-    "Android/System/SettingsProvider.md",
     "Android/View/未命名.md",
-    "Android/System/SystemProperties.md",
     "生活/低糖.md",
     "2.Book/对自己负责.md",
     "2.Book/第三帝国三部曲 结尾.md",
@@ -202,9 +193,6 @@
     "note/Evernote/已读(听)书单.md",
     "2.Book/战时的第三帝国.md",
     "2.Book/战时的第三帝国 密谋者.md",
-    "2.Book/战时的第三帝国 科学与意识形态.md",
-    "2.Book/战时的第三帝国 关于举报.md",
-    "Android/Serivce/Service.md",
     "note/_resources/image4.jpg",
     "note/_resources/image3-4.jpg",
     "note/_resources/image2-3.jpg",

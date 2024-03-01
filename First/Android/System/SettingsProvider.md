@@ -13,3 +13,7 @@ SettingsProvider有点类似Android的properties系统（Android属性系统）�
 - 公开程度不同：SettingProvider有部分功能上层第三方APP可以使用，SystemProperties上层第三方APP不可以使用。
 修改方式：
 adb shell settings put [global](https://so.csdn.net/so/search?q=global&spm=1001.2101.3001.7020) disable_list “kr.co.homematics.unoplus;com.google.android.youtube.tv”
+
+
+adb shell 
+settings system put "" " "
