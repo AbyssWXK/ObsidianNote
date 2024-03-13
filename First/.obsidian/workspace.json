@@ -23,9 +23,11 @@
             "id": "926697b369c45847",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Android/常见bug/recycleView 不能正确跳转到指定位置.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Temp/未命名/MarkDown.md",
+                "file": "Android/常见bug/recycleView 不能正确跳转到指定位置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Temp/未命名/MarkDown.md",
+                "file": "Android/常见bug/recycleView 不能正确跳转到指定位置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Temp/未命名/MarkDown.md"
+                "file": "Android/常见bug/recycleView 不能正确跳转到指定位置.md"
               }
             }
           }
@@ -168,6 +170,7 @@
   },
   "active": "926697b369c45847",
   "lastOpenFiles": [
+    "Android/常见bug/recycleView 不能正确跳转到指定位置.md",
     "未命名",
     "README.md",
     "未命名 1",
@@ -193,7 +196,6 @@
     "UML/BTSystemSettingUML/4.voice",
     "UML/BTSystemSettingUML/3.display",
     "UML/BTSystemSettingUML/2.connect",
-    "UML/BTSystemSettingUML/1.total",
     "未命名.md",
     "Android/View/Utils/拓展点击区域.md",
     "Android/View/未命名.md",
