@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "926697b369c45847",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +166,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67d7cf6a7dccc0ae",
+  "active": "926697b369c45847",
   "lastOpenFiles": [
     "未命名",
     "README.md",
