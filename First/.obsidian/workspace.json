@@ -13,21 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Temp/未命名/MarkDown.md",
+                "file": "Android/System/SystemProperties.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "926697b369c45847",
+            "id": "f92da192c2d44d93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Android/常见bug/recycleView 不能正确跳转到指定位置.md",
-                "mode": "source",
-                "source": true
+                "currentVersion": "1.5.12"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/常见bug/recycleView 不能正确跳转到指定位置.md",
+                "file": "Android/System/SystemProperties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/常见bug/recycleView 不能正确跳转到指定位置.md",
+                "file": "Android/System/SystemProperties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/常见bug/recycleView 不能正确跳转到指定位置.md"
+                "file": "Android/System/SystemProperties.md"
               }
             }
           }
@@ -168,16 +166,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "926697b369c45847",
+  "active": "f92da192c2d44d93",
   "lastOpenFiles": [
+    "Android/System/RadioManager.md",
+    "Android/System/SettingsProvider.md",
+    "Android/System/SystemProperties.md",
+    "Android/ADB/adb广播.md",
+    "1.Temp/未命名/MarkDown.md",
     "Android/常见bug/recycleView 不能正确跳转到指定位置.md",
     "未命名",
     "README.md",
     "未命名 1",
     "Android/常见应用/Android 浮窗.md",
-    "Android/System/SettingsProvider.md",
     "Android/常见应用",
-    "Android/System/SystemProperties.md",
     "UML/OneOSSettings/UML.md",
     "UML/BTSystemSettingUML/1.total/系统结构.md",
     "UML/BTVehicleSettingUML/车辆设置.md",
@@ -203,9 +204,6 @@
     "2.Book/对自己负责.md",
     "2.Book/第三帝国三部曲 结尾.md",
     "note/Evernote/微博21.8.7.md",
-    "note/Evernote/已读(听)书单.md",
-    "2.Book/战时的第三帝国.md",
-    "2.Book/战时的第三帝国 密谋者.md",
     "note/_resources/image4.jpg",
     "note/_resources/image3-4.jpg",
     "note/_resources/image2-3.jpg",
