@@ -42,9 +42,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ff32e4a83328bb08",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,16 +190,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "63ae3227545cfb8e",
+  "active": "ff32e4a83328bb08",
   "lastOpenFiles": [
+    "Android/ADB/adb广播.md",
+    "Android/System/SettingsProvider.md",
+    "Android/System/SystemProperties.md",
     "DEBUG/11A3/连接.md",
     "DEBUG/11A3/设置.md",
     "DEBUG/11A3",
     "DEBUG",
     "Android/System/RadioManager.md",
-    "Android/System/SettingsProvider.md",
-    "Android/System/SystemProperties.md",
-    "Android/ADB/adb广播.md",
     "1.Temp/未命名/MarkDown.md",
     "Android/常见bug/recycleView 不能正确跳转到指定位置.md",
     "未命名",
