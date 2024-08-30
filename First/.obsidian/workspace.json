@@ -47,9 +47,11 @@
             "id": "ff32e4a83328bb08",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Android/ADB/adb pm.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/System/SettingsProvider.md",
+                "file": "Android/ADB/adb pm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/System/SettingsProvider.md",
+                "file": "Android/ADB/adb pm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/System/SettingsProvider.md"
+                "file": "Android/ADB/adb pm.md"
               }
             }
           }
@@ -193,6 +195,9 @@
   "active": "ff32e4a83328bb08",
   "lastOpenFiles": [
     "Android/ADB/adb广播.md",
+    "Android/ADB/adb pm.md",
+    "Android/View/Utils/透明度.md",
+    "Android/View/EditView.md",
     "Android/System/SettingsProvider.md",
     "Android/System/SystemProperties.md",
     "DEBUG/11A3/连接.md",
@@ -225,9 +230,6 @@
     "UML/BTSystemSettingUML/3.display",
     "未命名.md",
     "Android/View/Utils/拓展点击区域.md",
-    "Android/View/未命名.md",
-    "生活/低糖.md",
-    "2.Book/对自己负责.md",
     "note/_resources/image4.jpg",
     "note/_resources/image3-4.jpg",
     "note/_resources/image2-3.jpg",
