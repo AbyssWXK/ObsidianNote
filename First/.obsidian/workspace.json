@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/View/Utils/原生阴影.md",
+                "file": "Android/ADB/adb广播.md",
                 "mode": "source",
                 "source": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/View/Utils/原生阴影.md",
+                "file": "Android/ADB/adb广播.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/View/Utils/原生阴影.md",
+                "file": "Android/ADB/adb广播.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/View/Utils/原生阴影.md"
+                "file": "Android/ADB/adb广播.md"
               }
             }
           }
@@ -194,10 +194,10 @@
   },
   "active": "ff32e4a83328bb08",
   "lastOpenFiles": [
-    "Android/System/SystemProperties.md",
-    "Android/View/Utils/原生阴影.md",
-    "Android/System/SettingsProvider.md",
     "Android/ADB/adb pm.md",
+    "Android/View/Utils/原生阴影.md",
+    "Android/System/SystemProperties.md",
+    "Android/System/SettingsProvider.md",
     "Android/ADB/adb广播.md",
     "Android/View/Utils/透明度.md",
     "Android/View/EditView.md",
